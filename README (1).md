@@ -132,23 +132,16 @@ git clone https://github.com/iamsivab/Stock-Market-Analysis.git
 
 ### Need help?
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@iamsivab&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/iamsivab)
-[![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@iamsivab&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/iamsivab/)
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@iamsivab&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/iamsivab/)
 
 :email: Feel free to contact me @
-[balasiva001@gmail.com](https://mail.google.com/mail/)
+[ajayvinayak19@gmail.com](https://mail.google.com/mail/)
 
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/iamsivab)
-[![Twitter
-Follow](https://img.shields.io/twitter/follow/iamsivab?style=social)](https://twitter.com/iamsivab)
+
 
 ### License
 
-MIT ©
-[Sivasubramanian](https://github.com/iamsivab/Stock-Market-Analysis/blob/master/LICENSE)
+MIT 
 
-[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/0)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/0)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/1)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/1)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/2)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/2)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/3)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/3)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/4)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/4)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/5)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/5)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/6)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/6)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/images/7)](https://sourcerer.io/fame/iamsivab/iamsivab/Stock-Market-Analysis/links/7)
 
 [![GitHub
 license](https://img.shields.io/github/license/iamsivab/Stock-Market-Analysis.svg?style=social&logo=github)](https://github.com/iamsivab/Stock-Market-Analysis/blob/master/LICENSE)
